@@ -1,0 +1,7 @@
+*.mp4
+*.ipynb
+__pycache__/
+tests/
+pydejavu/
+.ipynb_checkpoints/
+
